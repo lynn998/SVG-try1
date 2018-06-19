@@ -1,0 +1,16 @@
+@charset "utf-8"
+
+/* CSS Document */
+# word{
+		  0% {
+			   transition:All 0.4s ease-in-out;
+    -webkit-transition:All 0.4s ease-in-out;
+    -moz-transition:All 0.4s ease-in-out;
+    -o-transition:All 0.4s ease-in-out;
+		  }
+		  100% {transform:scale(1.2);
+    -webkit-transform:scale(1.2);
+    -moz-transform:scale(1.2);
+    -o-transform:scale(1.2);
+    -ms-transform:scale(1.2);}
+		  } 
